@@ -2,6 +2,7 @@
 
 require_relative '../config/environment'
 
+
 def start
 
   puts "Hey there, let's play Tic Tac Toe"
